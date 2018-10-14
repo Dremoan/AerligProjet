@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: e7ce9517ca8d7f644b16474088232053
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_table
+    100002: batiment
+    100004: batiment 1
+    100006: batiment 2
+    100008: batiment 3
+    100010: batiment7
+    100012: batiment8
+    100014: cafe
+    100016: concepteurs
+    100018: grandeNef
+    100020: Halles
+    100022: interieur
+    100024: interieur 1
+    100026: interieur 2
+    100028: interieur 3
+    100030: interieur 4
+    100032: interieur 5
+    100034: petiteNef
+    100036: petitesHalles
+    100038: Pied_Table
+    100040: visiteurs
+    100042: //RootNode
+    100044: polySurface1
+    100046: polySurface2
+    100048: transform1
+    400000: Base_table
+    400002: batiment
+    400004: batiment 1
+    400006: batiment 2
+    400008: batiment 3
+    400010: batiment7
+    400012: batiment8
+    400014: cafe
+    400016: concepteurs
+    400018: grandeNef
+    400020: Halles
+    400022: interieur
+    400024: interieur 1
+    400026: interieur 2
+    400028: interieur 3
+    400030: interieur 4
+    400032: interieur 5
+    400034: petiteNef
+    400036: petitesHalles
+    400038: Pied_Table
+    400040: visiteurs
+    400042: //RootNode
+    400044: polySurface1
+    400046: polySurface2
+    400048: transform1
+    2100000: lambert1
+    2100002: aiStandardSurface2
+    2300000: Base_table
+    2300002: batiment
+    2300004: batiment 1
+    2300006: batiment 2
+    2300008: batiment 3
+    2300010: batiment7
+    2300012: batiment8
+    2300014: interieur
+    2300016: interieur 1
+    2300018: interieur 2
+    2300020: interieur 3
+    2300022: interieur 4
+    2300024: interieur 5
+    2300026: Pied_Table
+    2300028: polySurface1
+    2300030: polySurface2
+    3300000: Base_table
+    3300002: batiment
+    3300004: batiment 1
+    3300006: batiment 2
+    3300008: batiment 3
+    3300010: batiment7
+    3300012: batiment8
+    3300014: interieur
+    3300016: interieur 1
+    3300018: interieur 2
+    3300020: interieur 3
+    3300022: interieur 4
+    3300024: interieur 5
+    3300026: Pied_Table
+    3300028: polySurface1
+    3300030: polySurface2
+    4300000: Base_table
+    4300002: interieur
+    4300004: batiment
+    4300006: batiment8
+    4300008: interieur
+    4300010: batiment
+    4300012: interieur
+    4300014: batiment7
+    4300016: interieur
+    4300018: batiment
+    4300020: interieur
+    4300022: batiment
+    4300024: interieur
+    4300026: Pied_Table
+    4300028: polySurface1
+    4300030: polySurface2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
