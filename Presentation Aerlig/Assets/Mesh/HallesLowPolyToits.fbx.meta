@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 42d2e4ba3f7e7ff4abe57638bb0d7bb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: batiment
+    100002: batiment 1
+    100004: batiment 2
+    100006: batiment 3
+    100008: batiment7
+    100010: batiment8
+    100012: cafe
+    100014: concepteurs
+    100016: grandeNef
+    100018: //RootNode
+    100020: interieur
+    100022: interieur 1
+    100024: interieur 2
+    100026: interieur 3
+    100028: interieur 4
+    100030: interieur 5
+    100032: petiteNef
+    100034: petitesHalles
+    100036: toit
+    100038: toit1
+    100040: toit4
+    100042: toit5
+    100044: toit6
+    100046: toits1
+    100048: visiteurs
+    400000: batiment
+    400002: batiment 1
+    400004: batiment 2
+    400006: batiment 3
+    400008: batiment7
+    400010: batiment8
+    400012: cafe
+    400014: concepteurs
+    400016: grandeNef
+    400018: //RootNode
+    400020: interieur
+    400022: interieur 1
+    400024: interieur 2
+    400026: interieur 3
+    400028: interieur 4
+    400030: interieur 5
+    400032: petiteNef
+    400034: petitesHalles
+    400036: toit
+    400038: toit1
+    400040: toit4
+    400042: toit5
+    400044: toit6
+    400046: toits1
+    400048: visiteurs
+    2100000: lambert1
+    2300000: batiment
+    2300002: batiment 1
+    2300004: batiment 2
+    2300006: batiment 3
+    2300008: batiment7
+    2300010: batiment8
+    2300012: interieur
+    2300014: interieur 1
+    2300016: interieur 2
+    2300018: interieur 3
+    2300020: interieur 4
+    2300022: interieur 5
+    2300024: toit
+    2300026: toit1
+    2300028: toit4
+    2300030: toit5
+    2300032: toit6
+    2300034: toits1
+    3300000: batiment
+    3300002: batiment 1
+    3300004: batiment 2
+    3300006: batiment 3
+    3300008: batiment7
+    3300010: batiment8
+    3300012: interieur
+    3300014: interieur 1
+    3300016: interieur 2
+    3300018: interieur 3
+    3300020: interieur 4
+    3300022: interieur 5
+    3300024: toit
+    3300026: toit1
+    3300028: toit4
+    3300030: toit5
+    3300032: toit6
+    3300034: toits1
+    4300000: batiment
+    4300002: toits1
+    4300004: interieur
+    4300006: toit
+    4300008: batiment
+    4300010: interieur
+    4300012: toit1
+    4300014: batiment7
+    4300016: interieur
+    4300018: toit5
+    4300020: batiment
+    4300022: interieur
+    4300024: toit6
+    4300026: batiment8
+    4300028: interieur
+    4300030: toit4
+    4300032: interieur
+    4300034: batiment
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
