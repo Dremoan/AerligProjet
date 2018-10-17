@@ -109,7 +109,7 @@ MonoBehaviour:
         texture: {fileID: 0}
         intensity: 3
   colorGrading:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
       tonemapping:
         tonemapper: 2
@@ -134,7 +134,7 @@ MonoBehaviour:
       colorWheels:
         mode: 1
         log:
-          slope: {r: 0.8581385, g: 1, b: 0.993554, a: 0}
+          slope: {r: 0.8395132, g: 1, b: 0.8260193, a: 0}
           power: {r: 1, g: 0.921274, b: 0.6850945, a: 0}
           offset: {r: 0.91565424, g: 0.83130956, b: 1, a: 0}
         linear:
@@ -322,7 +322,7 @@ MonoBehaviour:
       mode: 0
       color: {r: 0, g: 0, b: 0, a: 1}
       center: {x: 0.5, y: 0.5}
-      intensity: 0.407
+      intensity: 0.388
       smoothness: 0.2
       roundness: 1
       mask: {fileID: 0}
